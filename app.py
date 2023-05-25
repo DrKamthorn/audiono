@@ -7,6 +7,9 @@ import numpy as np
 from scipy.io.wavfile import write
 import util_functions as ufs
 import time
+import subprocess
+import sys
+subprocess.run([f"{sys.executable}","script.py"])
 
 # Setting config option for deployment
 

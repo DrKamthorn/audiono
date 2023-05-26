@@ -1,5 +1,5 @@
 matplotlib==3.3.2
 streamlit==0.73.1
 numpy==1.19.2
-
+protobuf==3.9.2
 tensorflow
